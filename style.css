@@ -1,0 +1,19 @@
+body{
+  font-family: Bahnschrift;
+  font-size: 26px;
+  background-size: 1190px;
+  background-image: url("kirby.jpg");
+}
+
+table{
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+tr:hover {background-color:#f1f1f1;}
